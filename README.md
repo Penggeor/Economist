@@ -1,168 +1,159 @@
-# 微软收购暴雪计划流产；Meta 终于赚钱了；美国最高法否认 AI 发明；中国推动全球电动车市场；吃下硅谷银行后，第一共和国银行濒临破产……《经济学人 | 第 18 期》
+# 💰 ChatGPT 开始摧毁在线教育公司；与苹果、迪士尼和网飞纠纷中美国编剧协会罢工；英伟达将在今年进行 IPO；深度学习之父从谷歌离职；硅谷银行破产报告……
 
+## ChatGPT 开始摧毁在线教育公司
 
-## 微软挣钱依旧强劲，谷歌稍有回暖
-
-*America’s tech giants began announcing their latest results. Microsoft reported solid earnings. Revenue from cloud computing rose by 16%, year on year, a slower rate than in previous quarters but faster than markets had expected given the pullback in corporate IT spending.* 
-
-美国的科技巨头们开始公布最新的财报。微软报告了强劲的收益，云计算的收入同比增长16%，虽然增速比前几个季度略有放缓，但比市场预期快，考虑到企业IT支出的减少这一情况尤其如此。
-
-> **Year on year** 一种财务和经济术语，用于比较两个年度之间的数据变化。它表示某一数据在相邻两个年度之间的增长或下降的百分比。在上下文中，“*Revenue from cloud computing rose by 16%, year on year*” 表示云计算收入同比增长了 16%，即与去年同期相比，收入增长了 16%。
-
-> **Given** 在这里做连词，表示考虑到某种情况或已知的信息，做出一定的推论或结论。在上下文中， "*given the pullback in corporate IT spending*" 意味着考虑到企业IT支出的减少，可以得出一个结论，即微软云计算的收入增长 16% 的速度比市场预期的速度要快。
-
-
-
-
-
-*And advertising sales at Alphabet’s Google business bounced back following two disappointing quarters. The stock of both companies has risen by about 20% since the start of the year, outperforming the S&P 500.*
-
-而谷歌控股公司旗下的谷歌业务的广告销售在两个令人失望的季度之后反弹。这两家公司的股票自年初以来已经上涨约 20%，表现优于 S＆P 500 指数。
-
-> **Alphabet** 中文名是 谷歌控股公司，一家总部位于美国加利福尼亚州的跨国科技公司，由 Google 公司的联合创始人拉里·佩奇（Larry Page）和谢尔盖·布林（Sergey Brin）于 2015 年创建。Alphabet  旗下拥有 Google、YouTube、谷歌地图等多个互联网服务和产品，同时还涉足人工智能、自动驾驶、医疗保健等领域。在上下文中， "*Alphabet's Google business*" 指的是 Alphabet 公司旗下的谷歌业务。
-
-> **S&P 500** 是由美国标准普尔公司（Standard & Poor's）编制的美国 500 家上市公司股票的指数。这些公司包括了美国各个行业的大公司，如零售、金融、医疗保健和能源等。S&P 500 指数被广泛认为是衡量美国股票市场总体表现的重要指标之一，因此也是世界各地投资者关注的重要指标之一。
-
-## 微软收购暴雪计划流产
-
-*Microsoft’s proposed $75bn takeover of Activision was blocked by Britain’s competition regulator, potentially sounding the death knell for the deal.* 
-
-英国竞争监管机构阻止了微软拟议中的 750 亿美元收购动视暴雪，这可能预示着这笔交易的死亡。
-
-> **Activision**  /ˌæktɪˈvɪʒən/<br />暴雪，总部位于美国加利福尼亚州的游戏开发和发行公司，成立于1979年。该公司开发和发行了许多广受欢迎的电子游戏，包括“使命召唤”（Call of Duty）、“炉石传说”（Hearthstone）、“魔兽世界”（World of Warcraft）等。
-
-> **knell** /nel/ <br /> 
-> ***名词*** 的意思是“丧钟的响声”，通常被用来表示某个事件的终结或结束，往往有一种悲伤的氛围。在上文中，“*potentially sounding the death knell for the deal*” 意味着英国竞争监管机构阻止了微软对动视暴雪的收购，可能意味着这笔交易的终结，对微软而言是一个不好的消息。
-
-
-
-
-*Regulators around the world worry that Microsoft’s purchase of Activision, whose video games include “Call of Duty”, would make it dominant in gaming. America’s Federal Trade Commission sued to stop the takeover in December.*
-
-全球监管机构担心微软收购Activision（包括“使命召唤”等视频游戏）将使其在游戏行业占主导地位。美国联邦贸易委员会在去年12月起诉阻止这次收购。
-
-> **dominant** /ˈdɑːmɪnənt/<br />***adj.*** 占支配地位的
-
-## 时隔九个月， Meta 终于赚钱了
-
-*Meta’s quarterly revenue rose by 3%, year on year, the company’s first increase in sales in nine months.* 
-
-Meta 季度营收同比增长 3％，这是该公司九个月来销售额的首次增长。
-
-
-
-
-*The Reality Labs division, tasked with developing the metaverse, made another heavy loss. Still, investors seem pleased with Meta’s strategy, sending its stock up by 74% this year.*
-
-负责开发元宇宙的 Reality Labs 部门再次亏损严重。尽管如此，投资者似乎对 Meta 的战略感到满意，今年将其股票推高 了74％。
-
-
-## 美国最高法否认 AI 发明
-
-*America’s Supreme Court declined an appeal from an inventor over a refusal to grant two patents for products created by artificial intelligence.* 
-
-美国最高法院驳回了一位发明家的上诉，他因无法获得两个由 AI 创建的产品的专利而被驳回。
-
-> **appeal** 可以作为名词或动词使用，作为名词时，它的意思是呼吁、上诉或吸引力；作为动词时，它的意思是呼吁、上诉或有吸引力。在上下文中，"*America’s Supreme Court declined an appeal from an inventor*" 意思是美国最高法院拒绝了一位发明家的上诉请求。
-
-
-
-
-*Stephen Thaler registered his DABUS AI as an “inventor” for the patents, which was rejected because only humans can obtain copyright. Mr. Thaler is fighting that law in America, Britain, and Europe. He believes that DABUS has sensory experiences and even a stream of consciousness.*
-
-史蒂芬·泰勒（Stephen Thaler）将他的 DABUS AI 注册为这些专利的“发明家”，但这一申请被拒绝，因为只有人类才能获得版权。泰勒正在美国、英国和欧洲争取改变法律。他认为 DABUS 具有感官体验甚至有一种意识流。
-
-## 中国推动全球电动车市场
-
-*Global sales of electric vehicles rose by 25% in the first quarter, year on year, according to the International Energy Agency. EVs are expected to count for 18% of total car sales by the end of 2023 as more affordable models become available, up from less than 5% in 2020.* 
-
-全球电动车销售额按年增长 25%。国际能源署称，随着更多经济实惠的车型上市，到 2023 年底，电动车预计将占到总汽车销售量的 18%，而 2020 年这个比例还不到 5%。
-
-
-
-
-*The “exponential growth” of EV sales is being driven by China, which accounts for 60% of the market. Sales tripled in the emerging EV markets of India and Indonesia last year.*
-
-电动车销售的“指数级增长”是由中国推动的，中国占据了 60% 的市场份额。去年，印度和印尼这些新兴的电动车市场销售量增长了两倍以上。
-
-> - **account** 可以指代“占比”或“比例”，表示在某种情况下的分配或占有情况。在这里，"*China accounts for 60% of the market*" 表示中国在市场中占有 60% 的份额。
-
-## 吃下硅谷银行后，第一共和国银行濒临破产
-
-*Another regional bank in America teetered on the brink of collapse. First Republic, based in San Francisco, said it was “pursuing strategic options” after revealing that customers withdrew some \$100bn in deposits amid the turmoil surrounding the failure of Silicon Valley Bank.* 
-
-美国另一家地区银行濒临破产边缘。总部位于旧金山的第一共和国银行表示，在硅谷银行失败引发的动荡中，客户已撤回约 1,000 亿美元的存款，该行正在“寻求战略选择”。
-
-> **First Republic** 第一共和国银行，是一家总部位于美国旧金山的银行，在三月份收购了破产的硅谷银行。
-
->  **brink** /brɪŋk/<br />***n.*** 边缘
+*The disruptive potential of generative artificial intelligence came into sharp focus when Chegg, a provider of online study aids, said that the use of ChatGPT by students was starting to affect revenues.* 
  
-> **teeter** /ˈtidər/ 指由于缺乏平衡而摇晃或摇摆。<br />***v.*** 摇晃<br />***n.*** 跷跷板；摇摆不定
+当在线学习辅助服务提供商 Chegg 表示，学生使用 ChatGPT 已开始影响其收入时，生成式人工智能的颠覆性潜力引起了人们的高度关注。
 
-> **amid** /əˈmɪd/<br /> ***prep.*** 在…过程中；在…中
+> **distruptive** /dɪsˈrʌptɪv/<br /> ***形容词*** 引起混乱的，破坏的；创新的，开拓性的<br />词根是 "*dis-*" 和 "*rupt-*"。"*dis-*" 是一个前缀，表示 "*apart*" 或 "*away*"；"*rupt-*" 是一个词根，表示 "*to break*"。与 "*disruptive*" 同根的词有 "*disrupt*"（破坏、扰乱）、"*interruption*"（中断）和 "*corrupt*"（腐化、堕落）等。
 
-> **turmoil** /ˈtɜːrmɔɪl/ 混乱（*turmoil*）与沸腾（*boil*）同韵，想象一下沸腾的水的运动方式，你就能理解混乱是什么样子了。<br />***v.*** 混乱
+> **came into sharp focus** <br />意为“变得非常明显”或“引起了大家的关注”。这个短语用于描述某个问题或现象在特定情况下变得尤为重要或显著，引起了人们的高度关注。
 
+>> **Chegg** 是一家美国在线教育公司，成立于 2005 年，总部位于加利福尼亚州的圣克拉拉。Chegg 主要为高中生、大学生和其他学习者提供在线学习资源、教材租赁、在线家教、学术辅导和其他教育服务。
+>Chegg 的名字源于 "Chicken and Egg"（鸡和蛋）这个短语，象征着创立该公司的初衷是解决教育领域里的一个难题：学生如何在承受高昂教育费用的同时，获得高质量的教育资源。
 
-
-
-*Although outflows stabilized in April, First Republic is reducing its workforce by up to 25% to cut costs. The bank’s already enfeebled share price fell by 50% in a day.*
-
-尽管 4 月份资金外流已趋于稳定，但第一共和国银行仍计划裁员高达 25% 以降低成本。该银行已经虚弱的股价在一天内暴跌 50%。
-
-> **enfeeble** /ɪnˈfiːb(ə)l/ 使某物或某人变得虚弱，无力，失去力量或能力。在上文中，“enfeebled share price” 意味着股价已经很虚弱，不再具有原来的强势。<br />***vt.*** 使衰弱；使无力
+![](https://img-blog.csdnimg.cn/b3131a5b9e1344f4af4bc3d9dcc3ae8a.png)
 
 
-## 瑞信破产，钱流向了瑞银
+*Although the chief executive tried to assure investors that this “is not a sky-­is-­falling 
+ thing” and the effects are “just on the margin”, Chegg’s share price swooned, dragging down the stock of other online education companies.*
 
-*Customer outflows at Credit Suisse reached $69bn in the first quarter, mostly in the days leading to its collapse and takeover by UBS at the behest of Swiss regulators.* 
+尽管首席执行官试图向投资者保证这“并非天塌下来的事情”，且影响“只是微不足道”，但 Chegg 的股价仍出现下跌，拖累了其他在线教育公司的股票。
 
-瑞士信贷的客户资金外流在第一季度达到了 690 亿美元，其中大部分是在其破产和被瑞士监管机构要求接管后的几天内发生的。
+> **sky-is-falling** 是一个英语成语，常用来形容一种过分担忧或恐慌的情绪，尤指对某个问题或局势的反应过于紧张或悲观。这个成语来源于童话故事《小鸡带皮帽》（Chicken Little 或 Henny Penny），故事中的小鸡被树上掉下的树叶砸到头，错误地认为天要塌下来了，于是四处奔走想告诉其他动物。
 
-> **UBS** 瑞士银行集团（Union Bank of Switzerland）的缩写。UBS总部位于瑞士苏黎世，成立于1862年，是世界上历史最悠久的银行之一。
+> **on the margin** 是一个英语短语，意味着在边缘或边界上，通常用于描述某个现象或影响在一定程度上或相对较小的范围内发生。这个短语也可以表示某种程度的不确定性或风险。<br />在上文中，"*on the margin*" 描述的是生成式人工智能对 Chegg 公司收入的影响相对较小或有限。换句话说，首席执行官认为这种影响不足以对公司的整体业务产生重大负面效果，而仅仅是对收入产生了一定程度的边际影响。
 
-> **behest** /bɪˈhest/ 权威（你的老板、政府）的命令或请求。在上文中， "at the behest of Swiss regulators" 意味着是在瑞士监管机构的要求下，瑞士信贷被瑞银接管。
+## 与苹果、迪士尼和网飞纠纷，美国编剧协会罢工
 
-Many customers redirected their money to UBS, which reported $28bn in client inflows.
-
-许多客户将他们的资金转移到瑞银，瑞银报告了 280 亿美元的客户资金流入。
-
-## 乐天银行首日股价狂飙
+![](https://img-blog.csdnimg.cn/d26215ee29904bed8b02f3fce0a333b5.png)
 
 
+*The Writers Guild of America called its first strike for 15 years, in a dispute over pay with studios such as Apple, Disney, and Netflix.* 
+
+与苹果、迪士尼和奈飞等制片厂就薪酬问题发生了纠纷，美国编剧协会（Writers Guild of America）时隔 15 年后首次发起罢工。
+
+> **guild** /ɡɪld/<br />***名词*** 指代手工艺者、商人或专业人士的组织或协会。最早起源于中世纪欧洲，行会（guilds）通常由从事同一行业或职业的人们组成，目的是保护成员的利益、维护行业标准和规范行业行为。行会成员通常需要遵循一定的规章制度，以确保产品质量、公平竞争以及行业内的职业道德。<br />如今，"*guild*" 这个词通常用于表示专业协会或组织，它们的目标是维护和发展某个特定行业或领域的利益。这些现代行会可能会参与为其成员提供培训、认证、法律援助等服务，并代表成员在与政府或其他相关机构的谈判中争取权益。
+
+*The television and film writers say the studios are creating “a gig economy” in the industry, for example by moving to “day rates” in comedy variety. It also wants to restrict the use of AI in creating scripts. The last stoppage by Hollywood’s scriptwriters lasted 100 days.*
+
+电视和电影编剧表示，这些制片厂正在产业中创造“零工经济”，例如在喜剧综艺中采用“日薪制”。此外，该协会还希望限制在编剧创作中使用人工智能。好莱坞编剧的上一次罢工持续了 100 天。
+
+> **gig economy** /ɡɪɡ ɪˈkɑːnəmi/<br />指的是临时工或短期合同工所组成的劳动力市场。在零工经济中，工作者通常承担一系列短期或零散的工作，而不是长期的全职雇佣关系。
 
 
-*Rakuten Bank’s share price soared on its first day of trading on the Tokyo Stock  Exchange. The internet banking pioneer raised $625m, making it Japan’s biggest initial public offering since 2018.*
+## 英伟达将在今年进行 IPO
 
-> *Rakuten Bank*  /ˈrɑːkətɛn bæŋk/ 乐天银行是一家总部位于日本的互联网银行，隶属于乐天集团。该银行前身为 Ebank，成立于 2000 年，最初是一家在线银行。2010 年，Ebank 被乐天集团收购，随后更名为乐天银行。
-
-> **soar** /sɔːr/<br /> ***动词*** 意思是迅速上升、急速飙升。在金融市场中，股票或其他资产的价格上升得非常快，通常会被描述为 "*soaring*"。这个词语常用于描述价格或价值的大幅度上涨，或者是比喻某个事物在某个方面获得了巨大的成功或成就。
-
-> **pioneer** /ˌpaɪəˈnɪr/ <br /> ***名词*** 表示 "开创者"、"先驱者" 的意思，在上文中，"*internet banking pioneer*" 指的是在互联网银行领域中开创先河的组织或个人，即是指乐天银行，表示乐天银行在互联网银行的领域中起到了开创性的作用，是最早开始并成功推广互联网银行业务的银行之一。
-## 瑞典央行上调主要利率
-
+![](https://img-blog.csdnimg.cn/58d60e4b2bc544769290b7027ecc4151.png)
 
 
 
+*Arm, a British chip designer that is being spun off by SoftBank, filed papers for an IPO later this year. It is expected to list its shares on the Nasdaq stock exchange and could raise up to \$10bn, which would make it one of the largest IPOs in America in the past decade.*
+
+英国芯片设计公司英伟达（Arm)将被软银（SoftBank）剥离，该公司已提交招股书，计划在今年晚些时候进行首次公开募股（IPO）。预计英伟达将在纳斯达克股票交易所上市，募资金额可能高达100亿美元，这将使其成为过去十年中美国最大的IPO之一。
+
+>> **Arm** 的中文名是英伟达（英文全称：Advanced RISC Machines Ltd.，中文翻译为：先进的精简指令集计算机机器有限公司），是一家总部位于英国的芯片设计公司，其芯片被广泛应用于智能手机、平板电脑、物联网等领域。
+
+> **spun off** /spʌn ɔf/ 指的是将一个部门或公司从母公司中分离出来，成为一个独立的法人实体。这个新的实体通常以新的名称运营，并拥有自己的股份结构。通常，这种行为可以让母公司更专注于其主要业务，并为分离出来的实体提供更大的灵活性和自主权。在本文中，"*Arm is being spun off by SoftBank*"表示英伟达将从软银中分离出来，成为一个独立的实体，并且即将进行首次公开募股（IPO）。
 
 
-*Sweden’s central bank raised its main interest rate again, to 3.5%, and said it would increase the rate again in June or September.*
+## 深度学习之父从谷歌离职
 
-瑞典央行再次将其主要利率上调至 3.5％，并表示将在 6 月或 9 月再次提高利率。
+*Geoffrey Hinton, one of the pioneers of AI, resigned from Google in order to speak his mind about the technology.*
 
->> **主要利率**（也称政策利率）是央行制定的对银行业提供贷款的基准利率。它对于整个经济体系的货币政策具有重要的影响。央行通过改变主要利率的高低来调节货币供应量、影响经济增长和通货膨胀等。**当主要利率上调时，借贷成本增加，从而抑制通货膨胀。反之，当主要利率下调时，借贷成本降低，促进借贷和消费，从而促进经济增长。**
+人工智能先驱之一的杰弗里·辛顿（Geoffrey Hinton）从谷歌辞职，以便更自由地表达他对该技术的看法。
+
+>> 杰弗里·辛顿（Geoffrey Hinton），英国裔加拿大计算机科学家和认知心理学家，因在人工智能（AI）和深度学习领域的开创性工作而广受赞誉。他被誉为“深度学习之父”和“神经网络之父”。2013年，他加入了 Google，成为了 Google Brain 项目的一员，并在谷歌旗下的 DeepMind 担任研究员。在他的职业生涯中，辛顿获得了许多荣誉和奖项，其中最著名的是 2018 年与约书亚·本吉奥（Yoshua Bengio）和延恩·勒昆（Yann LeCun）共同获得的图灵奖。
+
+![](https://img-blog.csdnimg.cn/6223804e4d084e139aea7b8f9d86ee81.png)
 
 
-## 英国专家让英国人接受现实
+*Mr. Hinton, 75, said AI was developing too rapidly and the idea that it would outsmart people was no longer “30 to 50 years” away. Humans are “biological systems and these are digital systems”, he warned, as he called for more safety protocols for AI.*
+
+75 岁的辛顿表示，人工智能发展过于迅速，它超越人类智慧的时间已不再是“30 到 50 年”这么遥远。他警告说，人类是“生物系统，而这些（AI）是数字系统”，并呼吁为人工智能制定更多安全协议。
 
 
 
+## 硅谷银行破产报告：缺少监管
 
-*The Bank of England’s chief economist, Huw Pill, urged people to accept that they are worse off because of inflation and not seek higher pay and said firms should stop trying to pass on their higher costs to consumers. Trying to “pass the parcel” would just add to in­ inflationary pressures, he said.*
+![](https://img-blog.csdnimg.cn/b7f2763f96e24e1099530833f308b8e4.png)
 
-英格兰银行首席经济学家休·皮尔（Huw Pill）敦促人们接受他们因通货膨胀而处境更糟的事实，不要寻求更高的薪酬，并表示企业应该停止试图将更高的成本转嫁给消费者。他说，试图“转嫁”只会增加通货膨胀的压力。
 
-> **pass the parcel** 意指企业在面对成本上升的情况时，试图通过将成本转嫁给消费者的方式来保护其自身利润。类似于游戏“包裹传递”，企业将成本包裹传递给下一个“接力”的人，以此来分摊或者避免承担成本增加所带来的风险。
+*The Federal Reserve issued a stinging report on the collapse of Silicon Valley Bank in March. It blamed SVB’s management as well as itself for not appreciating “the seriousness of critical deficiencies” at the bank, and said that legislation passed in Congress in 2018 had lowered supervisory standards. It called for stronger regulations. The report also noted that social media is a factor that “may have fundamentally changed the speed of bank runs”.*
+
+美国联邦储备委员会（Federal Reserve）发布了一份关于硅谷银行（Silicon Valley Bank，SVB）在三月份倒闭的尖锐报告。它指责硅谷银行的管理层以及美联储自身没有意识到该行“关键缺陷的严重性”，并表示 2018 年国会通过的立法降低了监管标准。报告呼吁加强监管。报告还指出，社交媒体可能是一个“从根本上改变银行挤兑速度”的因素。
+
+>> **Federal Reserve** 美国联邦储备系统（Federal Reserve），简称美联储，是美国的中央银行，成立于 1913 年，负责制定和执行美国的货币政策。它是一个由 12 个地区联邦储备银行组成的独立组织，旨在维护美国金融体系的稳定、促进就业、保持通货膨胀稳定以及确保国家经济的健康发展。
+
+> **stinging** /ˈstɪŋɪŋ/<br />***形容词*** ，原型是“*sting*”，表示昆虫或动植物的叮、刺，“*stinging*” 就表示”刺人的，激烈的*，在电影《霍比特人》中，主角霍比特人比尔博·巴金斯在面对巨龙史矛革时，感到非常恐惧和不安。当巨龙发出咆哮时，比尔博的脸上露出了"*stinging fear*"（强烈的恐惧）。在这个例子中，"*stinging*"用于描述比尔博的恐惧，表达了他对危险情况的强烈不安和恐惧感。
+
+> **deficiencies** /dɪˈfɪʃənsiz/<br /> ***名词*** 原型是“*deficiency*”，“*de-*” 不，非，使相反，“*-fic*”, 做，词源同“*defect*”, “*efficient*”， 即没做好，缺陷。<br />在电影《大空头》（The Big Short）中，一些金融机构存在严重的内部缺陷（*deficiencies*），如高风险的抵押贷款和不透明的金融产品，最终导致了 2008 年的金融危机。
+
+>> **bank run** 一个金融术语，由 "*bank*"（银行）和 "*run*"（跑，跑动）两个词组合而成，形象地描述了大量存款人涌向银行提款的情景，即“**银行挤兑**”，大量存款人在短时间内纷纷提取存款的现象。这种现象通常是由于存款人对银行的信心受损，担心银行会倒闭并导致他们的存款损失。
+
+## 美国银行业动荡不已，政府出手
+
+*In an attempt to stave off more banking turmoil, regulators in California took control of First Republic Bank, a regional lender based in San Francisco, and placed it into federal receivership.* 
+
+为了避免更多的银行业动荡，加州监管机构接管了总部位于旧金山的地区性银行第一共和银行（First Republic），并将其置于联邦破产管理之下。
+
+
+> **stave off** /stev ɒf/ <br /> ***词组*** 意思是"防止"、"避免"或"延缓"某事发生。通常用于描述采取措施来避免负面后果或危险的情况。例如："*The medicine will help stave off the flu*"，意为"这种药物将有助于预防流感"。
+
+> **turmoil** /ˈtɜːrmɔɪl/ <br /> ***名词*** 混乱（*turmoil*）与沸腾（*boil*）同韵，想象一下沸腾的水的运动方式，你就能理解混乱是什么样子了。<br />***v.*** 混乱
+
+> **receivership** /rɪˈsiːvərʃɪp/<br />***名词*** 意思是"破产管理“。在金融领域，"receivership"通常是指由法院或监管机构委派的第三方负责接管并管理被认为处于危机状态或破产状态的金融机构或企业。在接管期间，接管方通常会采取必要的措施来稳定财务状况，并寻求最佳的解决方案，例如出售资产或合并重组，以最大程度地保护债权人的利益。
+
+![](https://img-blog.csdnimg.cn/46e5af013c7a4b7bb5b4758596cadbc6.png)
+
+
+
+*Much of the bank was then sold to JPMorgan Chase following a bidding auction. It is America’s second­ biggest banking failure ever. The rescue didn’t do much to placate fears about the health of other midsized regional banks. *
+随后，该银行的大部分股份在竞价拍卖后被出售给了摩根大通。这是美国有史以来第二大银行倒闭事件。救援行动并没有缓解人们对其他中型地区银行健康状况的担忧。
+
+> **placate** /ˈpleɪkeɪt/<br />***动词*** 意思是"安抚"或"缓和"。通常用于形容采取措施来平息怒气或减轻情绪的行为，以达到和解或调和的目的。在电影《哈利·波特与魔法石》中，哈利试图通过抚慰草药的蝙蝠来平息Hagrid的狂怒情绪，也可以算作是"*placate*"的一个例子。<br />词根是"*plac-*"，意为"平静"或"安抚"，后缀"*-ate*"表示"使...，变得..."的意思。
+
+>> **JPMorgan Chase** /ˌdʒeɪ ˌpi ˈmɔrɡən ˈtʃeɪs/<br />***专有名词*** 中文名是摩根大通银行，是一家美国的全球性金融服务公司，总部位于纽约市。它是全球最大的银行之一，提供投资银行、商业银行、财富管理、信托、资产管理、证券服务和信用卡等多种金融服务。JPMorgan Chase 成立于 2000 年，是通过摩根大通公司和JP摩根公司的合并而形成的。公司在全球拥有超过 250,000 名员工，在超过 100 个国家和地区开展业务。
+
+## 石油公司净利润仍然居高不下
+
+*Big oil companies made record profits last year on the back of soaring oil prices. With oil now much less dear, profits are expected to decline, though there wasn’t much evidence of that in the first quarter.* 
+
+去年油价飙升，大型石油公司创下了创纪录的利润。由于现在石油价格大幅下降，预计这些公司的利润将会下降，但在第一季度中并没有多少迹象表明这一点。
+
+> **soaring**  /ˈsɔːrɪŋ/ ***动词***意为飞涨、猛增、急速上升。在此句中，指的是油价的猛涨。
+
+
+![](https://img-blog.csdnimg.cn/0df0f51bd2dc491c8a6184fa86d24430.png)
+
+
+*BP reported an underlying profit of \$5bn, higher than expected but below the \$6.2bn it made in the same quarter last year. Shell’s adjusted profit of \$9.6bn was an improvement on its performance a year ago, as was Chevron’s net profit of \$6.6bn. ExxonMobil’s net income doubled, to \$11.4bn.*
+
+英国石油公司（BP）报告了 50 亿美元的基本盈利，高于预期但低于去年同期的 62 亿美元。壳牌（Shell）的调整后利润为 96 亿美元，比一年前的表现有所改善，雪佛龙（Chevron）的净利润为 66 亿美元。埃克森美孚（ExxonMobil）的净收入翻了一倍，达到 114 亿美元。
+
+>> **BP** 是英国石油公司（British Petroleum）的缩写。它是一家全球性的能源公司，总部位于英国伦敦。BP 主要从事石油和天然气勘探、生产、加工和销售业务。该公司成立于 1909 年，目前在全球 80 多个国家拥有业务和雇员。
+
+>> **Shell** 是壳牌公司（Royal Dutch Shell）的简称，也称荷兰皇家壳牌公司。它是一家跨国石油和天然气公司，总部位于荷兰和英国。壳牌公司的主要业务包括石油和天然气的勘探、生产、加工和销售。该公司成立于1907年，是世界上最大的能源公司之一，在全球超过 70 个国家开展业务。
+
+>> **Chevron** /ˈʃɛvrən/ 是雪佛龙公司（Chevron Corporation）的全称。它是一家跨国石油和天然气公司，总部位于美国加利福尼亚州圣拉蒙。Chevron 公司的主要业务包括石油和天然气的勘探、生产、加工和销售。该公司成立于 1879 年，目前在全球超过 180 个国家拥有业务和雇员，是世界上最大的石油公司之一。
+
+>> **ExxonMobil** /ˈɛksən moʊˈbɪl/ 是埃克森美孚公司（Exxon Mobil Corporation）的全称。它是一家全球性的石油和天然气公司，总部位于美国得克萨斯州的伊尔灵顿市。埃克森美孚公司的主要业务包括石油和天然气的勘探、生产、加工和销售。该公司成立于 1999 年，是埃克森公司（Exxon）和美孚公司（Mobil）两家公司的合并结果。它是世界上最大的石油公司之一，业务覆盖全球，拥有数万名员工和数百亿美元的年度营收。
+
+## “飞行袋鼠” CEO 乔伊斯退休
+
+![](https://img-blog.csdnimg.cn/d853024b7c9c4814a8b1762abc5f50b0.png)
+
+
+*Alan Joyce, one of the more combative figures in the airline industry, is retiring as chief executive of Qantas. His replacement will be Vanessa Hudson, the chief financial officer. Last year the term “Joyced” was coined to reflect passengers’ frustration with “the flying kangaroo” over an increase in canceled flights and lost luggage.*
+
+航空业中比较好斗的人物之一，澳洲航空公司（Qantas）首席执行官艾伦·乔伊斯（Alan Joyce）宣布退休。他的继任者将是首席财务官凡妮莎·哈德森（Vanessa Hudson）。去年，术语“Joyced”被创造出来，反映了乘客对“飞行袋鼠”的不满，原因是航班取消和行李丢失的增加。
+
+> **combative** /kəmˈbætɪv/<br />***形容词*** 好战的，好争论的<br /> "*com-*"表示“共同”，"*bat-*"表示“打、战斗”，"*-ive*"表示“形容词”。与 combative 同根的单词有"*combat*"（战斗），"*combatant*"（战士，战斗的），"*combativity*"（好斗性），等等。
+
+> "**The flying kangaroo**" 指的是澳洲航空公司航空公司的标志性形象，即一只飞跃的袋鼠。它是澳大利亚的国家象征之一，也是澳洲航空公司的品牌形象。
+
+
 
 ### 最后
 
